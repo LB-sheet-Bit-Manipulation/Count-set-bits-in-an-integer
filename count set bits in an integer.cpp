@@ -1,9 +1,6 @@
 //baari baari (starting from rightmost bit),bitwise AND karte jao the last bit with 1 (0001). Agar 1 hai rightmost bit 
 //to (n&1)=1 aayga and count increases, else count me 0 add hota jaayga
 
-//Issue:
-//TC O(logn) kaise aaya ye nhi pata. kuch to log2n ka logic hai. Figure it out later
-
 #include<iostream>
 using namespace std;
 
